@@ -1,8 +1,7 @@
 # Coding Challenge 07 — Mobile Co. Landing Page
 
 A responsive landing page for a fictional cell phone company, built with plain
-HTML, CSS, and JavaScript. Created for ISM3232 (Summer 2026).
-
+HTML, CSS, and JavaScript.
 ## Features
 
 - Semantic HTML layout: `header`, `nav`, `main`, `section`, `footer`
@@ -25,6 +24,3 @@ HTML, CSS, and JavaScript. Created for ISM3232 (Summer 2026).
 
 Open `index.html` in any web browser — no build step or server required.
 
-## Author
-
-Tyler Dobson
